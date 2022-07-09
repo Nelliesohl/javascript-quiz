@@ -60,6 +60,14 @@ __Result section__
 
 ## Future Features
 
+__Ideas for future implementation__
+- Additional questions
+- Question counter
+- Progress counter
+- Score counter
+- Leaderboard
+- Timer
+
 ---
 
 ## Typography And Color Scheme
