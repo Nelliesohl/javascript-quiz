@@ -71,4 +71,24 @@ button:hover {
 .hidden {
     display: none;
 }
-  
+
+.radio-options {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+  list-style: none;
+  padding: 2rem;
+}
+
+.radio-options li {
+  padding: 1rem;
+}
+
+input[type=radio] {
+  margin-right: 1rem;
+  transform: scale(1.6);
+}
+
+input[type=radio]:hover {
+  cursor: pointer;
+}
