@@ -67,3 +67,8 @@ button:hover {
   background-color: rgb(213, 160, 0);
   cursor: pointer;
 }
+
+.hidden {
+    display: none;
+  }
+  
