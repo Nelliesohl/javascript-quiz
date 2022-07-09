@@ -1,42 +1,69 @@
 @import url('https://fonts.googleapis.com/css2?family=Jaldi:wght@400;700&family=Poppins:wght@500&display=swap');
 
 * {
-    border: none;
-    padding: 0;
-    margin: 0;
-  }
-  
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
 body {
-    background-color: black;
+  background-color: black;
 }
-  
+
 h1 {
-    font-family: 'Jaldi', sans-serif;
-    font-size: 3rem;
-    letter-spacing: 2px;
-    padding-top: 2rem;
-    padding-bottom: 1rem;
+  font-family: 'Jaldi', sans-serif;
+  font-size: 3rem;
+  letter-spacing: 2px;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
 }
-  
+
 p {
-    font-family: 'Poppins', sans-serif;
-    font-weight: 400;
-    font-size: 1.2rem;
-    padding: 1rem;
-    text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+  padding: 1rem;
+  text-align: center;
 }
 
 div {
-    align-items: center;
-    background-color: white;
-    border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin: 10rem;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10rem;
 }
-  
+
 .div-content {
-    padding: 2rem;
-    margin: auto;
+  padding: 2rem;
+  margin: auto;
+}
+
+.line {
+  background-color: rgb(254 199 38);
+  border-width: 0;
+  border-radius: 5px;
+  height: 0.8rem;
+  width: 80%;
+  margin: auto;
+}
+
+button {
+  background-color: rgb(254 199 38);
+  color: rgb(0, 0, 0);
+  border-top: 1px solid rgba(125, 116, 14, 0.236);
+  border-radius: 0 0 10px 10px;
+  font-family: 'Jaldi', sans-serif;
+  font-size: 2rem;
+  letter-spacing: 3px;
+  padding: 1rem 2rem;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+button:hover {
+  background-color: rgb(213, 160, 0);
+  cursor: pointer;
 }
