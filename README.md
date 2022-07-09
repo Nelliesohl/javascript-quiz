@@ -21,9 +21,17 @@ Live link can be found here - [JavaScript Quiz](…)
 
 ## User Stories
 
+__Visitor Goals__
+
+- As a visiting user, I want to quickly understand the purpose of the site and its intended use.
+- As a visiting user, I want to easily understand how to play and start the quiz.
+- As a visiting user, I want to choose answers and submit them so that I can test my understanding.
+- As a visiting user, I want to see my result after I submit it so that I can verify whether my answer was correct or not.
+- As a visiting user, I want to know my total score after answering all of the questions.
+
 ---
 
-## Features
+## Feature
 
 __Landing page__
 
